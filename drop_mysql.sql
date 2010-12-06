@@ -1,0 +1,4 @@
+DELETE FROM `user` WHERE CONVERT( User USING utf8 ) = CONVERT( 'neo' USING utf8 ) AND CONVERT( Host USING utf8 ) = CONVERT( 'localhost' USING utf8 ) ;
+DROP DATABASE IF EXISTS `world` ;
+DROP DATABASE IF EXISTS `characters` ;
+DROP DATABASE IF EXISTS `realmd` ;
