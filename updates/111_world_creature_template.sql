@@ -1,1 +1,0 @@
-UPDATE `creature_template` SET `speed` = 3.09 WHERE `entry` = 4277;
