@@ -1,0 +1,3 @@
+INSERT INTO `neo_string` (`entry`, `content_default`, `content_loc1`, `content_loc2`, `content_loc3`, `content_loc4`, `content_loc5`, `content_loc6`, `content_loc7`, `content_loc8`, `content_loc9`) VALUES ('11010', 'Server is locking down in %s due to server maintenance. Lockdown will last %u minutes(s). Please use this time to clear your game''''s Cache folder. Thanks.', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+('11011', 'Server is locking down in %s.', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL),
+('11000', '|cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF%s|r', NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL, NULL);
